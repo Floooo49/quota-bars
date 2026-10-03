@@ -8,12 +8,12 @@ Dans Claude Code :
 
 ```
 /plugin marketplace add Floooo49/quota-bars
-/plugin install quota-bars@floooo49-plugins
+/plugin install quota-bars@quota-bars
 ```
 
 Puis redemarrer Claude Code (ou l'app de bureau).
 
-Mise a jour : `/plugin marketplace update floooo49-plugins`.
+Mise a jour : `/plugin marketplace update quota-bars`.
 
 ## Plugins
 
