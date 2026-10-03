@@ -7,7 +7,7 @@ Marketplace de plugins pour [Claude Code](https://claude.com/claude-code).
 Dans Claude Code :
 
 ```
-/plugin marketplace add Floooo49/claude-plugins
+/plugin marketplace add Floooo49/quota-bars
 /plugin install quota-bars@floooo49-plugins
 ```
 
