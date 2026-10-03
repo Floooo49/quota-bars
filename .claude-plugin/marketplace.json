@@ -1,0 +1,16 @@
+{
+  "name": "floooo49-plugins",
+  "owner": { "name": "Florian Augeard" },
+  "metadata": {
+    "description": "Plugins Claude Code de Florian Augeard"
+  },
+  "plugins": [
+    {
+      "name": "quota-bars",
+      "source": "./plugins/quota-bars",
+      "description": "Deux barres sous le prompt : quota de la session de 5 heures et quota de la semaine, avec pourcentage",
+      "version": "0.1.0",
+      "author": { "name": "Florian Augeard" }
+    }
+  ]
+}

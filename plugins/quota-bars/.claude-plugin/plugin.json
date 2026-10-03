@@ -1,0 +1,7 @@
+{
+  "name": "quota-bars",
+  "version": "0.1.0",
+  "description": "Deux barres sous le prompt : quota de la session de 5 heures et quota de la semaine, avec pourcentage",
+  "author": { "name": "Florian Augeard" },
+  "types": "./types/index.d.ts"
+}
